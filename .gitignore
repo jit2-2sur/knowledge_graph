@@ -1,0 +1,5 @@
+/.env
+/.venv
+/data
+/html_data
+/poetry.lock
